@@ -5,10 +5,10 @@ import pashmina from './images/pashmina kashmir.jpg';
 import safron from './images/saffron pulwama.jpg';
 import papier from './images/papier mache kashmir.jpg';
 import kani from './images/kani shawl kahmir.jpg';
-import carpet from './images/carpet baramulla.jpg';
-import basholi from '/Users/aryanmehrotra/react-app/my-app/src/components/CardGrid/images/basohli-painting.jpg';
-import img1 from '/Users/aryanmehrotra/react-app/my-app/src/components/CardGrid/images/img1 .jpeg';
-import img2 from '/Users/aryanmehrotra/react-app/my-app/src/components/CardGrid/images/img2.jpg';
+import carpet from './images/carpet-baramulla.jpg';
+import basholi from './images/basohli-painting.jpg';
+import img1 from './images/img1 .jpeg';
+import img2 from './images/img2.jpg';
 function CardGrid() {
   const cardData = [
     {
