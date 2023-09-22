@@ -9,10 +9,14 @@ import PhotoGallery from './components/PhotoGallery/PhotoGallery.js';
 import ODOPScheme from './components/ODOPScheme/ODOPScheme.js';
 import CardGrid from './components/CardGrid/CardGrid.js';
 import Footer from './components/Footer/Footer.js'; // Import the Footer component
+import 'font-awesome/css/font-awesome.min.css';
+import Header from './components/header/Header.js';
+
 
 function App() {
   return (
     <div className="App">
+      <Header/>
       <Navbar />
       <ImageSlider />
       <TextContent />

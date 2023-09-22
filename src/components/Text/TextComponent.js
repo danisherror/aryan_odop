@@ -5,8 +5,8 @@ import React from 'react';
 const textStyle = {
   textAlign: 'center',
   padding: '20px',
-  backgroundColor: '#f0f0f0', // Background color for the text content
-  lineHeight: '1.3', // Adjust the line-height as needed
+  backgroundColor: 'rgb(255, 240, 225)', // Warm white background color
+  lineHeight: '1.3',
 };
 
 const buttonStyle = {
@@ -20,7 +20,7 @@ const buttonStyle = {
 };
 
 const arrowStyle = {
-  marginLeft: '10px', // Add space between text and arrow
+  marginLeft: '10px',
 };
 
 function TextContent() {
